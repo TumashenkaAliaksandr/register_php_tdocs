@@ -1,0 +1,1 @@
+{"0":"INSERT INTO users (username, email, password)\r\n  \t\t\t  VALUES('alex', 'tumashenkaaliaksandr@gmail.com', 'd8578edf8458ce06fbc5bb76a58c5ca4')"}
